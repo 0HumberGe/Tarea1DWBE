@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarea1DWBE+", "Tarea1DWBE+\Tarea1DWBE+.csproj", "{4CCBD65F-FE67-4A37-AEB9-E05269FFF82E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tarea1DWBE+", "Tarea1DWBE+\Tarea1DWBE+.csproj", "{4CCBD65F-FE67-4A37-AEB9-E05269FFF82E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIRestNorthwind", "APIRestNorthwind\APIRestNorthwind.csproj", "{CFA818EA-CBDD-421C-82F6-C2D237600712}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{4CCBD65F-FE67-4A37-AEB9-E05269FFF82E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CCBD65F-FE67-4A37-AEB9-E05269FFF82E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CCBD65F-FE67-4A37-AEB9-E05269FFF82E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFA818EA-CBDD-421C-82F6-C2D237600712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFA818EA-CBDD-421C-82F6-C2D237600712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFA818EA-CBDD-421C-82F6-C2D237600712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFA818EA-CBDD-421C-82F6-C2D237600712}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

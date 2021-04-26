@@ -5803,11 +5803,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Humberto Peña.DESKTOP-IHI5EUT\\source\\repos\\Tarea1DWBE+\\Tarea1DWBE+\\Tarea1DWBE+.csproj",
+      "projectUniqueName": "C:\\Users\\Humberto Peña.DESKTOP-IHI5EUT\\Desktop\\EntityFrameworkNET-main\\Tarea1DWBE+\\Tarea1DWBE+.csproj",
       "projectName": "Tarea1DWBE+",
-      "projectPath": "C:\\Users\\Humberto Peña.DESKTOP-IHI5EUT\\source\\repos\\Tarea1DWBE+\\Tarea1DWBE+\\Tarea1DWBE+.csproj",
+      "projectPath": "C:\\Users\\Humberto Peña.DESKTOP-IHI5EUT\\Desktop\\EntityFrameworkNET-main\\Tarea1DWBE+\\Tarea1DWBE+.csproj",
       "packagesPath": "C:\\Users\\Humberto Peña.DESKTOP-IHI5EUT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Humberto Peña.DESKTOP-IHI5EUT\\source\\repos\\Tarea1DWBE+\\Tarea1DWBE+\\obj\\",
+      "outputPath": "C:\\Users\\Humberto Peña.DESKTOP-IHI5EUT\\Desktop\\EntityFrameworkNET-main\\Tarea1DWBE+\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Humberto Peña.DESKTOP-IHI5EUT\\AppData\\Roaming\\NuGet\\NuGet.Config",

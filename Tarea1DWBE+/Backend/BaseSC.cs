@@ -7,6 +7,6 @@ namespace Tarea1DWBE_.Backend
 {
     public class BaseSC
     {
-        protected NorthwindContext dbContext = new NorthwindContext()
+        protected NorthwindContext dbContext = new NorthwindContext();
     }
 }

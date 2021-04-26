@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OT6umNmM2byeZImWp0Ny9h1RbLL64k2y2L9MeXLjm3HwB4t4M5pttfEQWB1P1JV1w/kr9kmObqNybWz8U6kbYw==",
+  "dgSpecHash": "qot7YcULpVOXdaotJ7YKCVIS0Db5ktppb2QqDMBgCaZNZ2Smbp0WvVj1f2RmWKHbbsKhULJK970PK6vN6WYGBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Humberto Peña.DESKTOP-IHI5EUT\\source\\repos\\Tarea1DWBE+\\Tarea1DWBE+\\Tarea1DWBE+.csproj",
+  "projectFilePath": "C:\\Users\\Humberto Peña.DESKTOP-IHI5EUT\\Desktop\\EntityFrameworkNET-main\\Tarea1DWBE+\\Tarea1DWBE+.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Humberto Peña.DESKTOP-IHI5EUT\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Humberto Peña.DESKTOP-IHI5EUT\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -6,7 +6,7 @@ using Tarea1DWBE_.DataAccess;
 
 namespace Tarea1DWBE_.Backend
 {
-    class OrderSC : BaseSC
+    public class OrderSC : BaseSC
     {
         public IQueryable<Order> GetOrderByID(int orderID)
         {
