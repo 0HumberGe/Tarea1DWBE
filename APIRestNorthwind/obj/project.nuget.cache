@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/QTpTzLyMY/8btiZE7cxqrsXy/L6z5Qw67AjvJJZKnUEi/FlUwR1TzC0Q+Zsf77f5TeVIqh/OQI5dcxj9oF61g==",
+  "dgSpecHash": "KJikGYex7zBhYpCFDOz5ZKCCl266CylPOvWaQH3MWj8AguBbvNpSdzQuz/MgbRChqWiVUi1jT4dCZGhzHsC4Uw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Humberto Peña.DESKTOP-IHI5EUT\\Desktop\\EntityFrameworkNET-main\\APIRestNorthwind\\APIRestNorthwind.csproj",
+  "projectFilePath": "C:\\Users\\Humberto Peña.DESKTOP-IHI5EUT\\source\\repos\\Tarea1DWBE+\\APIRestNorthwind\\APIRestNorthwind.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Humberto Peña.DESKTOP-IHI5EUT\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Humberto Peña.DESKTOP-IHI5EUT\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

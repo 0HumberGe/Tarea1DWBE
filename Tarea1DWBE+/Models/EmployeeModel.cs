@@ -9,4 +9,6 @@ namespace Tarea1DWBE_.Models
         public string Name { get; set; }
         public string FamilyName { get; set; }
     }
+
+    
 }

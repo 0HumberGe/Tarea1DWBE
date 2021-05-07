@@ -64,21 +64,6 @@ namespace APIRestNorthwind.Controllers
             }
         }
 
-        /*// PUT api/<EmployeeController>/5
-        [HttpPut("{id}")]
-        public IActionResult Put(int id, [FromBody] EmployeeModel newEmployee)
-        {
-            try
-            {
-                employeeService.EditEmployee(id, newEmployee);
-                return Ok();
-            }
-            catch (Exception ex)
-            {
-                return ThrowInternalErrorServer(ex);
-            }
-        }*/
-
         // DELETE api/<EmployeeController>/5
         [HttpDelete("{id}")]
         public IActionResult Delete(int id)
