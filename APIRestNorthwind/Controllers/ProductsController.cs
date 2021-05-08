@@ -16,7 +16,6 @@ namespace APIRestNorthwind.Controllers
     [ApiController]
     public class ProductsController : ControllerBase
     {
-
         private ProductSC productService = new ProductSC();
 
         // GET: api/<ProductsController>
@@ -51,7 +50,7 @@ namespace APIRestNorthwind.Controllers
             }
             catch (Exception ex)
             {
-                return StatusCode(StatusCodes.Status500InternalServerError, ex.Message)
+                return StatusCode(StatusCodes.Status500InternalServerError, ex.Message);
             }
         }
 
