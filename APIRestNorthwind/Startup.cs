@@ -16,6 +16,7 @@ namespace APIRestNorthwind
 {
     public class Startup
     {
+        private const string CorsName = "_my_cors";
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
@@ -26,7 +27,15 @@ namespace APIRestNorthwind
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-
+            services.AddCors(
+                options => options.AddPolicy(
+                    name: CorsName,
+                    builder => {
+                        builder
+                            .AllowAnyOrigin()
+                            .AllowAnyHeader()
+                            .AllowAnyMethod();
+                    }));
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
@@ -49,6 +58,8 @@ namespace APIRestNorthwind
             app.UseRouting();
 
             app.UseAuthorization();
+            
+            app.UseCors(CorsName);
 
             app.UseEndpoints(endpoints =>
             {
